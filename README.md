@@ -19,7 +19,7 @@ The **Entity-Relationship Diagram (ERD)** visually represents the structure of t
 
 Below is the diagram showing the structure of the e-commerce database:
 
-![E-commerce ERD](Downloads/ecommerce.png)
+![E-commerce ERD](assets/ecommerce.png)
 ## 🗂️ Project Structure
 
 Here’s how the project is organized:
